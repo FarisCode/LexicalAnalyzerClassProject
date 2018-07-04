@@ -1,0 +1,19 @@
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.exe.config
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.exe
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.pdb
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.csprojResolveAssemblyReference.cache
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical_Analyzer_IDE.Form1.resources
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical_Analyzer_IDE.Properties.Resources.resources
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.csproj.GenerateResource.Cache
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.exe
+c:\users\classic\documents\visual studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.pdb
+C:\Users\classic\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.exe.config
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.exe
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.pdb
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.exe
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\bin\Debug\Lexical Analyzer IDE.pdb
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.csprojResolveAssemblyReference.cache
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical_Analyzer_IDE.Form1.resources
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical_Analyzer_IDE.Properties.Resources.resources
+C:\Users\Syed Faris Ahmed\Documents\Visual Studio 2013\Projects\Lexical Analyzer IDE\Lexical Analyzer IDE\obj\Debug\Lexical Analyzer IDE.csproj.GenerateResource.Cache

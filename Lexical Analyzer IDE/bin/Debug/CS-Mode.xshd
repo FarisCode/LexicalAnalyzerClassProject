@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!-- syntaxdefinition for C# 2000 by Mike Krueger -->
+
+<SyntaxDefinition name = "stream" extensions = ".ss">
+	
+	<RuleSets>
+		<RuleSet ignorecase="false">
+			<Delimiters>&amp;&lt;&gt;~!%^*()-+=|\#/{}[]:;"' ,	.?</Delimiters>
+			
+			<KeyWords name = "Terminator" bold = "true" italic = "false" color = "Purple">
+				<Key word = "Terminator" />
+			</KeyWords>
+			<KeyWords name = "Keyword" bold = "true" italic = "false" color = "Blue">
+				<Key word = "Keyword" />
+			</KeyWords>
+			<KeyWords name = "Operator" bold = "true" italic = "false" color = "Red">
+				<Key word = "Operator" />
+			</KeyWords>
+			<KeyWords name = "RelOp" bold = "true" italic = "false" color = "DarkCyan">
+				<Key word = "RelOp" />
+			</KeyWords>
+			<KeyWords name = "Punctuation" bold = "true" italic = "false" color = "Green">
+				<Key word = "Punctuation" />
+			</KeyWords>
+			<KeyWords name = "NUM" bold = "true" italic = "false" color = "DarkBlue">
+				<Key word = "NUM" />
+			</KeyWords>
+			<KeyWords name = "Literals" bold = "true" italic = "false" color = "#999900">
+				<Key word = "Literals" />
+			</KeyWords>
+		  
+		</RuleSet>
+	</RuleSets>
+</SyntaxDefinition>
